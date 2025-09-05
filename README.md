@@ -8,5 +8,5 @@ npm install axios
 
 server
 npm init -y
-npm install express cors dotenv
+npm install express cors dotenv pg
 npm install --save-dev nodemon
